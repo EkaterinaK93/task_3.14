@@ -1,4 +1,4 @@
-[<u><Вернуться к "Содержанию" </u>](./readme.md)
+[<u> :point_left: Вернуться к "Содержанию" </u>](./readme.md)
 
 ## Полезные материалы
 1. [Git How To](https://githowto.com/ru);

@@ -17,33 +17,8 @@
 `git@github.com:<user>/<project_name>`.  
 Git может получать и отправлять изменения по обоим указанным ссылкам, при этом производится контроль доступа на основании учётных данных пользователя, осуществляющего подключение.
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page Title</title>
-    <style>
-      /* Whatever that is inside this <style> tag is all styling for your markup / content structure.
-      /* The . with the boxed represents that it is a class */
-      .boxed {
-        background: #F2F2F2;
-        color: black;
-        border: 3px solid #535353;
-        margin: 0px auto;
-        width: 456px;
-        padding: 10px;
-        border-radius: 10px;
-      }
-    </style>
-  </head>
-  <body>
-    <!-- This is the markup of your box, in simpler terms the content structure. -->
-    <div class="boxed">
-   Примечание: Обычно, для общедоступного проекта предпочтительнее использовать HTTPS ссылки, так как это не требует наличия GitHub аккаунта для клонирования репозитория. При этом, для использования SSH ссылки у пользователя должен быть GitHub аккаунт и его SSH ключ должен быть добавлен в ваш проект. Так же HTTPS ссылка полностью совпадает с URL адресом, который пользователи могут вставить в браузер для просмотра вашего репозитория.
-    </div>
-  </body>
-</html>
+Примечание: Обычно, для общедоступного проекта предпочтительнее использовать HTTPS ссылки, так как это не требует наличия GitHub аккаунта для клонирования репозитория. При этом, для использования SSH ссылки у пользователя должен быть GitHub аккаунт и его SSH ключ должен быть добавлен в ваш проект. Так же HTTPS ссылка полностью совпадает с URL адресом, который пользователи могут вставить в браузер для просмотра вашего репозитория.
+
 
 ---
 [<u>Следующая глава "Основные команды" :point_right: </u>](./commands.md)

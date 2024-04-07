@@ -8,3 +8,5 @@
 3. [DmitriiNazimov/commitConvention.md](https://gist.github.com/DmitriiNazimov/f9cf7d0631d12c19827518b8bd8134c4);
 
 4. [Документация по GitHub](https://docs.github.com/ru)
+
+5. [rxaviers/gist:7360908](https://gist.github.com/rxaviers/7360908)
